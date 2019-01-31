@@ -1,3 +1,3 @@
 # hello-world
 First Project
-The swagmaster general extrodinaire
+The swagmaster general extraordinaire
